@@ -1,0 +1,1 @@
+console.log("this is my simple javascript page link in view page");
